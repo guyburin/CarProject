@@ -2,19 +2,11 @@
 <html lang="en">
 
 <head>
-  <style>
 
-
-
-
-  </style>
   <meta charset="utf-8">
 
   <title>Car Online</title>
-  <!--
-Comila Template
-http://www.templatemo.com/tm-490-comila
--->
+  <!--Comila Template http://www.templatemo.com/tm-490-comila-->
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="keywords" content="">
@@ -65,7 +57,7 @@ http://www.templatemo.com/tm-490-comila
 
           </div>
           <a href="CusHome.php" class="btn btn-lg btn-success smoothScroll wow fadeInUp animated" data-wow-delay="0.8s">Customer</a>
-          <a href="employee.php" class="btn btn-lg btn-success smoothScroll wow fadeInUp animated" data-wow-delay="1.0s" style="visibility: visible; animation-delay: 1s; animation-name: fadeInUp;">Employee</a>s
+          <a href="employee.php" class="btn btn-lg btn-success smoothScroll wow fadeInUp animated" data-wow-delay="1.0s" style="visibility: visible; animation-delay: 1s; animation-name: fadeInUp;">Employee</a>
         </div>
 
       </div>
